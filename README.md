@@ -17,6 +17,11 @@ docker run -ti --rm ztj1993/alpine sleep 10000
 
 ## 更新日志
 
+> 2020-05-11
+
+- 使用 alpine:3.11.6
+- 多 apk 源处理
+
 > 2020-03-22
 
 - 发布 alpine:3.11 版本
